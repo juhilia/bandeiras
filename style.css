@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin:0;
+}
+
+.flag{
+    width: 600px;
+    margin:40px;
+    background-color: white;
+    border: 3px solid black;
+}
+
+
+#one,
+#two,
+#three{
+height: 150px;
+background-color: rgb(193, 136, 247);
+}
+
+#two{
+    
+    background-color:rgb(144, 61, 221);
+
+}
+
+#three{
+    background-color:rgb(125, 22, 156);
+}
+
+#white{
+    height: 150px;
+    background-color: white;
+}
+#red{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border-radius: 100%;
+    margin-left: 220px;
+}
